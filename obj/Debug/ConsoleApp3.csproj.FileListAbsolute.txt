@@ -1,0 +1,9 @@
+C:\Users\386\OneDrive\Документы\Programmes C#\Project C++++\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\386\OneDrive\Документы\Programmes C#\Project C++++\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\386\OneDrive\Документы\Programmes C#\Project C++++\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\386\OneDrive\Документы\Programmes C#\Project C++++\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+C:\Users\386\OneDrive\Документы\Programmes C#\Project C++++\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\386\OneDrive\Документы\Programmes C#\Project C++++\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\386\OneDrive\Документы\Programmes C#\Project C++++\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+C:\Users\386\OneDrive\Документы\Programmes C#\Project C++++\ConsoleApp3\bin\Debug\Database1.mdf
+C:\Users\386\OneDrive\Документы\Programmes C#\Project C++++\ConsoleApp3\bin\Debug\Database1_log.ldf

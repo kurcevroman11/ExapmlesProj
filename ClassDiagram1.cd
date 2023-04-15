@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ConsoleApp3.Employer">
+    <Position X="3.25" Y="4.75" Width="1.5" />
+    <InheritanceLine Type="ConsoleApp3.User" ManuallyRouted="true" FixedFromPoint="true">
+      <Path>
+        <Point X="5.75" Y="5" />
+        <Point X="4.75" Y="5" />
+        <Point X="4.75" Y="5.751" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAAAAAAAAAAACAAAAAAAEAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Employer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ConsoleApp3.Passager">
+    <Position X="7.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kAAAAAAAABAAAAAAAACAAQAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Passager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ConsoleApp3.User">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAD0AhAAAICAAEAAABQQQAAAABAAAAABAAA=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
